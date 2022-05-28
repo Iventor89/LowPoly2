@@ -1,0 +1,14 @@
+03.08.2020
+- poprawione obroty kamery (obniżenie prędkości i przyśpieszenia dla obu osi)***poczucie chaosu w trakcie sterowania postacią**
+- poprawiony cinemachine freecam dla rig low, med i top ***przy zbliżeniu i oddaleniu problem z colliderem cinemachine***
+- dodane obiekty w A1(drzewa, krzewy, kwiaty)
+- dodany skybox, osadzenie chmur
+
+Poprawki:
+- funkcjonalne menu główne
+- funkcjonalne menu pauzy
+- wprowadzenie opcji dialogowych (demo: kurczak na mości, od razu po rozpoczęciu gry)
+- poprawione "wiszące" drzewa
+- normalna prędkość postaci
+- menu pauzy uaktywnie się esc w menu głównym
+- optymalizacja pracy kamery (ograniczenie kątów i wysokości w 3wariantach Low, Med, High, aby kamera nie wchodziła pod tekstury oraz nie przenikała przez obiekty)
